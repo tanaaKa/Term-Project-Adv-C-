@@ -1,0 +1,6 @@
+﻿  TermProjectPart4.cpp
+c:\users\tanaka\documents\school\uni\advc++\termprojectpart4\termprojectpart4\termprojectpart4.cpp(226): warning C4101: 'DB': unreferenced local variable
+  TermProjectPart4.vcxproj -> C:\Users\tanaKa\Documents\school\uni\advc++\TermProjectPart4\Debug\TermProjectPart4.exe
+  TermProjectPart4.vcxproj -> C:\Users\tanaKa\Documents\school\uni\advc++\TermProjectPart4\Debug\TermProjectPart4.pdb (Full PDB)
+  C:\Users\tanaKa\Documents\school\uni\advc++\TermProjectPart4\packages\sqlite3_c_plus_plus.1.0.3\build\native\lib\Win32\v140\Debug\sqlite3.dll
+  1 File(s) copied
